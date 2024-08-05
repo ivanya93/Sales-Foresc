@@ -1,7 +1,6 @@
-# Project Brief: Spreadsheet Analysis / Data Analysis
-# In this project you'll use Python to do very basic data analysis on a spreadsheet. The standard
-# project will use csv file that contains fake sales data. After completing the required tasks you are
-# free to change the csv file that you use.
+# Project Brief: Spreadsheet Analysis / Data Analysis - Sales Forescasting
+# In this project you'll use Python to do very basic data analysis on a spreadsheet. 
+# The standard project will use csv file that contains fake sales data. After completing the required tasks you are free to change the csv file that you use.
 # The csv file for the standard project is called sales.csv and is included with your course materials.
 
 #  1. Read the data from the spreadsheet
